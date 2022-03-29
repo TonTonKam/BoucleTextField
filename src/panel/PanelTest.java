@@ -8,8 +8,6 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-import jdk.internal.misc.FileSystemOption;
-
 public class PanelTest extends JPanel {
 
 	private JTextField textField; 
